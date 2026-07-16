@@ -1,0 +1,150 @@
+species_nut;code;weight_g;maximum_load_n;rupture_force_n;hole;species_clean
+terminalia_catappa;1;2.259;1505;925;0;terminalia_catappa
+terminalia_catappa;2;2.063;990;930;0;terminalia_catappa
+terminalia_catappa;3;1.148;640;930;0;terminalia_catappa
+terminalia_catappa;4;1.299;320;930;0;terminalia_catappa
+terminalia_catappa;5;3.066;7910;930;0;terminalia_catappa
+terminalia_catappa;6;2.742;1030;935;0;terminalia_catappa
+terminalia_catappa;7;2.408;245;925;0;terminalia_catappa
+terminalia_catappa;8;2.79;545;930;0;terminalia_catappa
+terminalia_catappa;9;2.88;705;930;0;terminalia_catappa
+terminalia_catappa;10;3.533;730;930;0;terminalia_catappa
+terminalia_catappa;11;5.342;16765;3330;0;terminalia_catappa
+terminalia_catappa;12;4.518;14710;910;0;terminalia_catappa
+terminalia_catappa;13;2.668;760;930;0;terminalia_catappa
+terminalia_catappa;14;4.311;1215;910;0;terminalia_catappa
+terminalia_catappa;15;2.032;2760;920;0;terminalia_catappa
+terminalia_catappa;16;3.336;5430;815;0;terminalia_catappa
+terminalia_catappa;17;4.521;890;930;0;terminalia_catappa
+terminalia_catappa;18;3.356;1120;930;0;terminalia_catappa
+terminalia_catappa;19;4.097;6290;890;0;terminalia_catappa
+terminalia_catappa;20;5.429;11850;1645;0;terminalia_catappa
+terminalia_catappa;21;4.813;1595;930;0;terminalia_catappa
+terminalia_catappa;22;3.651;375;930;0;terminalia_catappa
+terminalia_catappa;23;5.067;15125;630;0;terminalia_catappa
+terminalia_catappa;24;5.697;990;930;0;terminalia_catappa
+terminalia_catappa;25;5.127;1925;890;0;terminalia_catappa
+terminalia_catappa;26;4.186;9275;2010;0;terminalia_catappa
+terminalia_catappa;27;4.933;1060;930;0;terminalia_catappa
+terminalia_catappa;28;2.302;1205;925;0;terminalia_catappa
+terminalia_catappa;29;5.294;1835;920;0;terminalia_catappa
+terminalia_catappa;30;4.943;1230;905;0;terminalia_catappa
+syagrus_romanzoffiana_hole;1;0.758;580;930;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;2;0.869;840;925;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;3;1.275;225;925;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;4;1.171;715;925;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;5;0.868;490;925;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;6;0.881;610;925;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;7;1.208;680;680;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;8;1.545;260;925;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;9;1.288;495;925;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;10;1.781;510;925;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;11;1.899;55;55;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;12;1.902;305;315;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;13;1.244;695;925;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;14;1.268;655;925;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;15;1.276;375;925;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;16;2.031;100;100;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;17;1.931;220;925;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;18;1.178;585;925;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;19;1.46;305;925;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;20;1.075;730;925;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;21;0.993;730;930;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;22;2.014;80;925;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;23;1.15;550;925;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;24;0.977;750;925;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;25;2.119;140;925;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;26;1.274;465;465;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;27;1.363;600;925;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;28;1.528;325;325;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;29;0.749;820;925;1;syagrus_romanzoffiana
+syagrus_romanzoffiana_hole;30;0.853;250;925;1;syagrus_romanzoffiana
+syagrus_romanzoffiana;1;1.21;150;925;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;2;0.61;830;925;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;3;0.666;860;925;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;4;1.153;650;925;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;5;1.246;460;925;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;6;1.071;525;925;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;8;1.23;525;925;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;9;0.871;775;870;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;10;0.982;430;925;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;11;1.057;340;925;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;12;1.175;595;925;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;13;1.413;565;610;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;14;1.31;330;330;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;15;1.092;165;925;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;16;0.94;615;615;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;17;1.222;685;800;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;18;1.962;560;925;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;19;1.108;575;925;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;20;1.362;500;925;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;21;2.183;495;925;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;22;0.788;560;925;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;23;1.023;380;925;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;24;1.075;425;925;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;25;0.846;680;680;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;26;2.238;445;925;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;27;1.813;100;100;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;28;1.048;410;925;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;29;1.568;110;925;0;syagrus_romanzoffiana
+syagrus_romanzoffiana;30;0.633;815;835;0;syagrus_romanzoffiana
+acrocomia_aculeata_hole;1;4.76;415;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;2;2.522;305;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;3;4.544;1090;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;4;3.275;140;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;5;4.8;465;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;6;5.439;1360;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;7;3.52;2265;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;8;4.767;1955;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;9;3.312;2210;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;10;6.828;2010;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;11;6.903;530;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;12;3.94;190;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;13;5.079;85;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;14;3.275;305;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;15;3.571;425;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;16;5.095;490;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;17;4.039;190;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;18;4.928;620;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;19;4.382;210;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;20;4.234;90;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;21;4.093;405;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;22;5.332;180;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;23;3.145;295;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;24;3.275;330;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;25;4.331;85;930;1;acrocomia_aculeata
+acrocomia_aculeata_hole;26;4.128;385;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;27;3.712;160;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;28;3.977;50;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;29;3.748;65;935;1;acrocomia_aculeata
+acrocomia_aculeata_hole;30;3.545;2250;935;1;acrocomia_aculeata
+acrocomia_aculeata  ;3;8.651;2660;935;0;acrocomia_aculeata  
+acrocomia_aculeata  ;4;7.808;930;930;0;acrocomia_aculeata  
+acrocomia_aculeata  ;6;8.599;3350;935;0;acrocomia_aculeata  
+acrocomia_aculeata  ;9;7.712;4320;935;0;acrocomia_aculeata  
+acrocomia_aculeata  ;10;8.789;3205;935;0;acrocomia_aculeata  
+acrocomia_aculeata  ;11;5.338;860;930;0;acrocomia_aculeata  
+acrocomia_aculeata  ;16;7.833;3065;930;0;acrocomia_aculeata  
+acrocomia_aculeata  ;18;8.391;4325;930;0;acrocomia_aculeata  
+acrocomia_aculeata  ;23;5.176;785;935;0;acrocomia_aculeata  
+acrocomia_aculeata  ;24;7.716;1010;930;0;acrocomia_aculeata  
+acrocomia_aculeata  ;25;5.077;910;935;0;acrocomia_aculeata  
+acrocomia_aculeata  ;26;7.374;2160;935;0;acrocomia_aculeata  
+acrocomia_aculeata  ;28;5.9;4560;930;0;acrocomia_aculeata  
+acrocomia_aculeata  ;30;4.507;3420;930;0;acrocomia_aculeata  
+acrocomia_aculeata  ;31;6.665;3915;3915;0;acrocomia_aculeata  
+acrocomia_aculeata  ;32;4.012;955;930;0;acrocomia_aculeata  
+acrocomia_aculeata  ;33;5.008;405;925;0;acrocomia_aculeata  
+acrocomia_aculeata  ;34;5.589;3360;925;0;acrocomia_aculeata  
+acrocomia_aculeata  ;35;6.802;3650;3650;0;acrocomia_aculeata  
+acrocomia_aculeata  ;36;4.211;2570;930;0;acrocomia_aculeata  
+acrocomia_aculeata  ;37;3.282;680;925;0;acrocomia_aculeata  
+acrocomia_aculeata  ;38;3.243;2665;930;0;acrocomia_aculeata  
+acrocomia_aculeata  ;39;5.507;1445;925;0;acrocomia_aculeata  
+acrocomia_aculeata  ;40;4.77;3245;3245;0;acrocomia_aculeata  
+acrocomia_aculeata  ;41;4.656;3760;930;0;acrocomia_aculeata  
+acrocomia_aculeata  ;42;5.203;3330;930;0;acrocomia_aculeata  
+acrocomia_aculeata  ;43;4.18;960;925;0;acrocomia_aculeata  
+acrocomia_aculeata  ;44;4.752;1755;930;0;acrocomia_aculeata  
+acrocomia_aculeata  ;45;4.743;2710;930;0;acrocomia_aculeata  
+acrocomia_aculeata  ;46;3.752;4270;925;0;acrocomia_aculeata  
